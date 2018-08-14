@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring Integration + ActiveMQ - topic-publish-su
+ bscribe
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: sunhaoxiang
+Implementation-Vendor-Id: com.memorynotfound.integration.jms.activemq
+Build-Jdk: 1.8.0_40
+Implementation-URL: http://memorynotfound.com
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
